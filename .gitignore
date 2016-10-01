@@ -1,3 +1,11 @@
+*.swp
+
+bin/
+include/
+pip-selfcheck.json
+
+# Below is Python default.
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
